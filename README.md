@@ -1,5 +1,3 @@
-# NERC
-
 # NERC Model Visualization with Streamlit
 
 ![NERC Model Visualization](./Visualization/demo.png)
